@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pos_prompt">Elige una posicion</string>
+    <string-array name="spinnerPosiciones">
+        <item>Posición de carga 1</item>
+        <item>Posición de carga 2</item>
+        <item>Posición de carga 3</item>
+        <item>Posición de carga 4</item>
+        <item>Posición de carga 5</item>
+        <item>Posición de carga 6</item>
+        <item>Posición de carga 7</item>
+        <item>Posición de carga 8</item>
+        <item>Posición de carga 9</item>
+        <item>Posición de carga 10</item>
+        <item>Posición de carga 11</item>
+        <item>Posición de carga 12</item>
+        <item>Posición de carga 13</item>
+        <item>Posición de carga 14</item>
+        <item>Posición de carga 15</item>
+        <item>Posición de carga 16</item>
+        <item>Posición de carga 17</item>
+        <item>Posición de carga 18</item>
+        <item>Posición de carga 19</item>
+        <item>Posición de carga 20</item>
+    </string-array>
+    <string name="tipo_prompt">Elige un tipo de venta</string>
+    <string-array name="spinnerTipo">
+        <item>Ultima</item>
+        <item>Penultima</item>
+        <item>Antepenultima</item>
+    </string-array>
+</resources>
+
+

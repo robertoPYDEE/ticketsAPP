@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FuelTickets</string>
+    <string name="action_settings">Settings</string>
+    <string name="icc_demo">ICC Demo</string>
+    <string name="picc_demo">PICC Demo</string>
+    <string name="mcr_demo">MCR_Demo</string>
+    <string name="printer_demo">Printer Demo</string>
+    <string name="lcm_demo">Lcm Demo</string>
+    <string name="system_demo">System Demo</string>
+    <string name="scan_demo">Scan Demo</string>
+    <string name="pci_demo">Pci Demo</string>
+    <string name="algorithm_demo">Algorithm Demo</string>
+    <string name="fingerprint_demo">FingerPrint Demo</string>
+    <string name="handsign_demo">HandSign Demo</string>
+    <string name="fiscal_demo">Fiscal Demo</string>
+    <string name="emmc_demo">Emmc Demo</string>
+    <string name="my_application">Exit App</string>
+    <string name="aes">Aes</string>
+    <string name="openDrawer">Menu abierto</string>
+    <string name="closeDrawer">Menu cerrado</string>
+</resources>
